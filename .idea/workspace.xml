@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5138ce83-a96b-4e57-bace-390baddcbfdc" name="Default Changelist" comment="- Opsætning af menu linjen / funktion">
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+    <list default="true" id="5138ce83-a96b-4e57-bace-390baddcbfdc" name="Default Changelist" comment="- Opsætning af footer&#10;- tilføjelse af icon for SoMe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/menufooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menufooter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/menufooter.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/menufooter.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/menufooter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/menufooter.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/bottom.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/bottom.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/top.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/top.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,7 @@
       <workItem from="1631707806884" duration="7000" />
       <workItem from="1631707849954" duration="652000" />
       <workItem from="1634030063831" duration="4294000" />
-      <workItem from="1634106671031" duration="9292000" />
+      <workItem from="1634106671031" duration="11454000" />
     </task>
     <task id="LOCAL-00001" summary="- opsætning af menu og footer filer">
       <created>1634114547293</created>
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634117942665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- Opsætning af footer&#10;- tilføjelse af icon for SoMe">
+      <created>1634123098858</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634123098858</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- opsætning af menu og footer filer" />
     <MESSAGE value="- Opsætning af menu linjen / funktion" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Opsætning af menu linjen / funktion" />
+    <MESSAGE value="- Opsætning af footer&#10;- tilføjelse af icon for SoMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Opsætning af footer&#10;- tilføjelse af icon for SoMe" />
   </component>
 </project>

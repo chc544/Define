@@ -26,6 +26,4 @@
 
 <body class="d-flex flex-column h-100">
 
-<main>
-
 <?php include 'menu.php';?>
