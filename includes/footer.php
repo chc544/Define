@@ -4,4 +4,4 @@
     <div class="test">Hej hej hej</div>
 </footer>
 
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="node_modules/bo224otstrap/dist/js/bootstrap.bundle.min.js"></script>
