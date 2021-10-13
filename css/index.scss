@@ -12,3 +12,42 @@ svg {
   vertical-align: middle;
   overflow: hidden;
 }
+
+.fa-desktop {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  top: 0;
+  left: 0;
+  z-index: 4;
+}
+
+h1  {
+  color: black;
+}
+
+#spin {
+  color:black;
+}
+#spin:after {
+  content:"";
+  animation: spin 20s linear infinite;
+}
+@keyframes spin {
+  0% { content:"druer";}
+  10% { content:"dadler";}
+  20% { content:"drommedarer";}
+  30% { content:"delfiner";}
+  40% { content:"drager";}
+  50% { content:"diskokugler"; }
+  60% { content:"dinosaurere"; }
+  70% { content:"dimsedutter"; }
+  80% { content:"damesko"; }
+  90% { content: "danseundervisning"; }
+  100% { content: "druer"; }
+}
+
+.button__text {
+  color: white;
+}
