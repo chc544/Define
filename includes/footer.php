@@ -1,5 +1,7 @@
-<footer class="footer mt-auto py-3 bg-primary" style="text-align: center">
-    <div class="container">
-        <span class="text-muted font">Nielsen & Rønne A/S</span>
-    </div>
+<link href="css/menufooter.css" rel="stylesheet" type="text/css">
+
+<footer>
+    <div class="test">Hej hej hej</div>
 </footer>
+
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
