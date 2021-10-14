@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5138ce83-a96b-4e57-bace-390baddcbfdc" name="Default Changelist" comment="- Opsætning af footer&#10;- tilføjelse af icon for SoMe">
-      <change afterPath="$PROJECT_DIR$/img/bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/flat art.jpg" afterDir="false" />
+    <list default="true" id="5138ce83-a96b-4e57-bace-390baddcbfdc" name="Default Changelist" comment="- opsætning af menu og footer filer">
+      <change afterPath="$PROJECT_DIR$/css/kontakt.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kontakt.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menufooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menufooter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menufooter.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/menufooter.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/top.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/top.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kaffetaarn" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -80,8 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.watch" />
         <item itemvalue="npm.sass" />
+        <item itemvalue="npm.watch" />
       </list>
     </recent_temporary>
   </component>

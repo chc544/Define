@@ -3,7 +3,8 @@
 @import "../node_modules/bootstrap/scss/mixins";
 
 $custom-colors: (
-        "primary": #ffbc00
+        "primary": #ffbc00,
+        "light-gray": #F8F8F8,
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 
