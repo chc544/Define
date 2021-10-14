@@ -29,13 +29,31 @@ h1  {
   90% { content: "danseundervisning"; }
   100% { content: "druer"; }
 }
+html, body { overflow-x: hidden; }
 
 .button__text {
   color: white;
 }
 
 .icons__top {
-  background-color: #ffbc00;
+  background-color: #8581F6;
+  -moz-hyphens:auto;
+  -ms-hyphens:auto;
+  -webkit-hyphens:auto;
+}
+
+.text__color {
+  color: white;
+}
+
+.flat__art__small {
+  display: inline;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.flat__art__big {
+  display: none;
 }
 
 .icon__text {
@@ -43,9 +61,39 @@ h1  {
   text-align: center;
   margin-top: 20px;
   margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.icon__header__text {
+  font-size: 50px;
+}
+
+.text__weight {
+  font-weight: 700;
 }
 
 .space__divider {
   margin-top: 4rem;
 }
+
+.middle__icon {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+@media (min-width: 768px) {
+  .flat__art__big {
+    display: inline;
+  }
+  .flat__art__small {
+    display: none;
+  }
+  .middle__icon {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+}
+
+
 

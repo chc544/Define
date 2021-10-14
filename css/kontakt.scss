@@ -1,0 +1,24 @@
+.map-responsive{
+
+  overflow:hidden;
+  padding-bottom: 100%;
+  position:relative;
+
+}
+
+.map-responsive iframe{
+
+  height:100%;
+  width:100%;
+  position:absolute;
+
+}
+
+@media screen and (min-width: 768px){
+
+  .map-responsive{
+    padding-bottom: 45%;
+
+  }
+
+}
