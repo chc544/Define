@@ -81,6 +81,13 @@ html, body { overflow-x: hidden; }
   margin-bottom: 50px;
 }
 
+.header__img {
+  background-image: url("../img/headerplaceholder.svg");
+  width: 100%;
+  background-repeat:no-repeat;
+  background-position: 110% 5px;
+  z-index: 1;
+}
 
 @media (min-width: 768px) {
   .flat__art__big {
@@ -94,6 +101,3 @@ html, body { overflow-x: hidden; }
     margin-bottom: 0px;
   }
 }
-
-
-

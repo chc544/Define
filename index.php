@@ -1,6 +1,8 @@
 <?php include 'includes/top.php';?>
 
+    <div class="header__img">
     <div class="container col-xxl-8 px-4 py-5">
+
         <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div class="col-lg-12">
                 <h1 class="display-8 fw-bold lh-1 mb-3"><p>Vi sælger ikke <br><span id="spin"></span></p></h1>
@@ -10,8 +12,7 @@
             </div>
         </div>
     </div>
-
-
+</div>
 
     <div class="icons__top">
         
@@ -20,17 +21,17 @@
             <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                 <i class="fas fa-desktop mb-2"></i>
                 <h1 class="icon__text">Webdesign</h1>
-                <p class="text__color">Få din helt egen hjemmeside. Designet, udviklet og færddigjort fra top til bund</p>
+                <p class="text__color">Alt fra mindre landing pages, til webshops og corporate sites. Vi udvikler en skræddersyet oplevelse til dine brugeres behov.</p>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 text-center middle__icon">
                 <i class="fas fa-pencil-ruler mb-2"></i>
-                <h1 class="icon__text">Webdesign</h1>
-                <p class="text__color">Få din helt egen hjemmeside. Designet, udviklet og færddigjort fra top til bund</p>
+                <h1 class="icon__text">Grafisk design</h1>
+                <p class="text__color">Vi laver design med et formål, som skaber værdi for jeres virksomhed og begejstrer dine brugere.</p>
             </div>
             <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0 col-sm-12 mt-md-5 mt-lg-0 text-center">
                 <i class="fas fa-desktop mb-2"></i>
-                <h1 class="icon__text">Webdesign</h1>
-                <p class="text__color">Få din helt egen hjemmeside. Designet, udviklet og færddigjort fra top til bund</p>
+                <h1 class="icon__text">SoMe indhold</h1>
+                <p class="text__color">Sociale medier er et afgørende komponent, når marketingstrategien skal udarbejdes, og det kan vi hjælpe med.</p>
             </div>
         </div>
     </div>
@@ -46,7 +47,7 @@
             <div class="col-lg-3 offset-lg-3 col-md-5 offset-md-1 col-sm-12 offset-sm-0 text-center">
                 <h1 class="mb-3 text__weight">Digitalt Design</h1>
                 <img src="img/flat%20art.jpg" class="flat__art__small" alt="">
-                <p class="mb-3" style="text-align: left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p class="mb-3" style="text-align: left">Vi er et team af kreative fagnørder med forskellige kompetencer og personligheder. Og vi er stolte af det. Vi skaber løsninger der virker, både nu og i fremtiden.</p>
                 <button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><p class="button__text">Læs om os</p></button>
             </div>
             <div class="col-lg-3 col-md-5 flat__art__big justify-content-start">
@@ -60,9 +61,9 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-6 offset-md-3 text-center col-sm-12 offset-sm-0">
+            <div class="col-md-4 offset-md-4 text-center col-sm-12 offset-sm-0">
                 <h1 class="mb-1 text__weight">Kontakt</h1>
-                <p class="mb-4">Mød os, ring os, smid os en mail så vi kan hjælpe dig.</p>
+                <p class="mb-4">Skal vi hjælpe din virksomhed til næste niveau, så kontakt os direkte på telefon eller email, så tager vi en uforpligtende snak omkring dit næste projekt</p>
                 <button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><p class="button__text">Kontakt</p></button>
             </div>
         </div>
