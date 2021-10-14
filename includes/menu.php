@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light">
-    <div class="container-fluid">
+    <div class="container">
         <a class="navbar-brand" href="#">
-            <img class="me-5" src="img/example.jpg" alt="logo af define">
+            <img class="me-5 nav__logo" src="img/logo.png" alt="logo af define - dit digitale udtryk">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

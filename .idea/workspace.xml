@@ -2,21 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5138ce83-a96b-4e57-bace-390baddcbfdc" name="Default Changelist" comment="- Opsætning af footer&#10;- tilføjelse af icon for SoMe">
-      <change afterPath="$PROJECT_DIR$/img/bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/flat art.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/omos.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Tobias.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/camilla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/christian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/linkediniconcard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nikolaj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sandra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/søren.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/websiteiconcard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omos.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menufooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menufooter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menufooter.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/menufooter.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menufooter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/menufooter.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/top.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/top.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

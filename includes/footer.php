@@ -1,4 +1,4 @@
-<footer class="position-relative">
+<footer class="position-relative container-fluid">
     <div class="row">
         <div class="col-12 col-sm-6">
             <div class="d-flex justify-content-center mt-4">
@@ -24,9 +24,8 @@
                     </div>
             </div>
         </div>
-
         <div class="col-sm-6 d-none d-sm-block d-flex align-self-center mt-4">
-            <img class="footer__logo mx-auto" src="img/facebookicon.png" alt="define logo">
+            <img class="footer__logo mx-auto" src="img/logo.png" alt="define logo">
         </div>
     </div>
         <p class="copyright text-center text-white my-3">© Define 2021</p>
