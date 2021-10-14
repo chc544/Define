@@ -1,26 +1,8 @@
-svg {
-  display: inline-block;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-.container-wavy {
-  display: inline-block;
-  position: relative;
-  width: 100%;
-  padding-bottom: 100%;
-  vertical-align: middle;
-  overflow: hidden;
-}
-
-.fa-desktop {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  background-size: cover;
-  top: 0;
-  left: 0;
-  z-index: 4;
+.fas {
+  font-size: 100px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 h1  {
@@ -51,3 +33,19 @@ h1  {
 .button__text {
   color: white;
 }
+
+.icons__top {
+  background-color: #ffbc00;
+}
+
+.icon__text {
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.space__divider {
+  margin-top: 4rem;
+}
+

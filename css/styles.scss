@@ -1,14 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200..900&display=swap');
-
 * {
-   font-family: Poppins;
    box-sizing: border-box;
+   font-family: apertura, sans-serif;
+   font-weight: 700;
+   font-style: normal;
 }
 
-.navbar-brand {
-   margin-left: 10px;
+body {
+   margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   margin: 0;
+   padding: 0;
 }
 
 .btn {
-   border-radius: 1rem !important;
+   border-radius: 1.1rem !important;
 }
