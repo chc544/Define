@@ -20,6 +20,7 @@
     <link href="css/menufooter.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.typekit.net/gsh6skh.css">
     <link href="css/menufooter.css" rel="stylesheet" type="text/css">
+    <link href="css/kontakt.css" rel="stylesheet" type="text/css">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
