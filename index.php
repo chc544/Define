@@ -1,18 +1,13 @@
 <?php include 'includes/top.php';?>
 
-    <div class="header__img">
-    <div class="container col-xxl-8 px-4 py-5">
 
-        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-            <div class="col-lg-12">
-                <h1 class="display-8 fw-bold lh-1 mb-3"><p>Vi sælger ikke <br><span id="spin"></span></p></h1>
-                <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-                    <button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><p class="button__text">Fortsæt</p></button>
-                </div>
-            </div>
+    <div class="container-fluid header__placeholder__wrapper">
+        <img src="img/headerplaceholder.svg" alt="" class="header__placeholder">
+        <div class="container">
+            <h1 class="display-4 fw-bold lh-1 mb-3"><p>Vi sælger ikke <br><span id="spin"></span></p></h1>
+            <button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><p class="button__text">Fortsæt</p></button>
         </div>
     </div>
-</div>
 
     <div class="icons__top">
         
@@ -36,8 +31,6 @@
         </div>
     </div>
         <img src="img/bg2.svg" class="img-fluid m-0" alt="">
-    </div>
-</div>
 
 
 <div class="space__divider"></div>

@@ -89,6 +89,24 @@ html, body { overflow-x: hidden; }
   z-index: 1;
 }
 
+.header__placeholder__wrapper {
+  position: relative;
+  padding: 20rem 0 24rem 0;
+  height: auto;
+}
+
+.header__placeholder {
+  position: absolute;
+  top: -150px;
+  right: -250px;
+  width: 1200px;
+  z-index: -1;
+}
+
+.header__h1 {
+  z-index: 1;
+}
+
 @media (min-width: 768px) {
   .flat__art__big {
     display: inline;
