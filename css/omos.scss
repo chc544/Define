@@ -47,22 +47,48 @@ img {
   width: 32px;
 }
 
-.card__title__underline:after {
-  content: " ";
-  display: block;
-  width: 95%;
-  height: 5px;
-  background-color: #8581F6;
-  border-radius: 100px;
-  margin: auto;
-}
-
 .card__body__icon {
   height: 32px;
   width: 32px;
 }
 
-.card__border {
-  border: none;
-  box-shadow: 5px 10px 10px #888888;
+.card__bg {
+  background-color: #f9f9f9;
+}
+
+.cf img {
+  -webkit-transition: opacity 3s ease-in-out;
+  -moz-transition: opacity 3s ease-in-out;
+  -o-transition: opacity 3s ease-in-out;
+  transition: opacity 3s ease-in-out;
+}
+
+@keyframes cf3FadeInOut {
+  0% {
+    opacity:1;
+  }
+
+  35% {
+    opacity: 1;
+  }
+
+  65% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity:0;
+  }
+}
+
+.cf img.top {
+  animation-name: cf3FadeInOut;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+  animation-direction: alternate;
+}
+
+#cf {
+  position: absolute;
 }
