@@ -12,6 +12,7 @@
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/index.css" rel="stylesheet" type="text/css">
+    <link href="css/kompetencer.css" rel="stylesheet" type="text/css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/627f0b1d73.js" crossorigin="anonymous"></script>
@@ -33,7 +34,7 @@
 
 <div class="container mt-5">
 
-    <h1 class="kompe__header mb-5 d-flex justify-content-center">Holdets Kompetencer</h1>
+    <h1 class="kompe__header mb-5 d-flex justify-content-center">Holdets kompetencer</h1>
 
 </div>
 <div class="space__divider"></div>
@@ -42,9 +43,9 @@
     <div class="row">
         <div class="col-lg-4 col-md-12 offset-lg-2 my-auto me-2">
             <h1 class="mb-2 display-5 fw-bold">Hvad end du har i tankerne...</h1>
-            <p class="mb-3">…kan vi sørge for.
-                <br>Vi kan ikke slå din græsplæne, men vi kan til gengæld hjælpe dig med at realisere dine tanker og idéer inden for den digitale og analoge verden</p>
-            <button type="button" class="btn btn-primary btn-lg px-4 me-md-2 mb-5"><a href="omos.php"><p class="button__text">Mød holdet</p></a></button>
+            <p class="mb-3 fs-5">…kan vi sørge for.
+                <br>Vi kan ikke slå din græsplæne, men vi kan til gengæld hjælpe dig med at realisere dine tanker inden for den digitale og analoge verden</p>
+            <button type="button" class="btn btn-primary btn-lg px-4 me-md-2 mb-5"><a href="omos.php" class="text-decoration-none"><p class="button__text">Mød holdet</p></a></button>
         </div>
         <div class="col-lg-4 col-md-12">
             <img src="img/exampleimg.svg" class="img__header__komp" alt="">
@@ -59,16 +60,16 @@
         <div class="col-lg-4 offset-lg-2 mb-3">
             <div class="d-flex align-items-center mb-3">
             <img src="img/Asset%2018.svg" class="small__img" alt="SoMe Strategi" style="height: 60px;">
-            <h1 class="ms-3">Grafisk Design</h1>
+            <h1 class="ms-3">Grafisk design</h1>
             </div>
-            <p class="w-75 mb-5">Posters, flyers, logoer, visitkort, brochurer og alt andet grafisk sørger vi for. Vi visualiserer dine idéer om end det er digitalt eller til print.</p>
+            <p class="w-75 fs-5 mb-5">Posters, flyers, logoer, visitkort, brochurer og alt andet grafisk sørger vi for. Vi visualiserer dine tanker om end det er digitalt eller til print.</p>
         </div>
         <div class="col-lg-4 mb-3">
             <div class="d-flex align-items-center mb-3">
             <img src="img/Asset%2016.svg" class="small__img" alt="SoMe Strategi" style="height: 60px;">
             <h1 class="ms-3">Webudvikling</h1>
             </div>
-            <p class="w-75">Få din hjemmeside; designet, udviklet og raffineret fra top til bund. - Inkluderer også SEO der sørger for din side får flere besøgende og højere troværdighed.</p>
+            <p class="w-75 fs-5">Få din hjemmeside; designet, udviklet og raffineret fra top til bund - Inkluderer også SEO, der sørger for din side får flere besøgende og højere troværdighed.</p>
         </div>
     </div>
 </div>
@@ -81,15 +82,15 @@
                 <img src="img/Asset%2020.svg" class="small__img" alt="SoMe Strategi" style="height: 60px;">
                 <h1 class="ms-3">SoMe strategi</h1>
             </div>
-            <p class="w-75 mb-5">Opslagstekst- og grafik, foto eller video sikrer din side mere trafik og interaktioner.
-                En contentplan og social mediestrategi hjælper dig med at holde styr på hvor og hvornår din opslag skal lægges ud for maksimal effekt.</p>
+            <p class="w-75 fs-5 mb-5">Opslagstekst og grafik, foto eller video sikrer din side mere trafik og interaktioner.
+                En contentplan og social mediestrategi hjælper dig med at holde styr på hvor og hvornår dit opslag skal lægges ud for maksimal effekt.</p>
         </div>
         <div class="col-lg-4 mb-3">
             <div class="d-flex align-items-center mb-3">
                 <img src="img/Asset%2022.svg" class="small__img" alt="SoMe Strategi" style="height: 60px;">
-                <h1 class="ms-3">Foto & Video</h1>
+                <h1 class="ms-3">Foto & video</h1>
             </div>
-            <p class="w-75">Vi optager video, tager billeder - både de traditionelle og de anderledes. Vi fanger de specielle vinkler og bruger det visuelle i kombination med det skrevne ord.</p>
+            <p class="w-75 fs-5">Vi optager video, tager billeder - både de traditionelle og de anderledes. Vi fanger de specielle vinkler og bruger det visuelle i kombination med det skrevne ord.</p>
         </div>
     </div>
 </div>

@@ -23,18 +23,21 @@ h1  {
 @keyframes spin {
   0% { content:"druer";}
   10% { content:"dadler";}
-  20% { content:"drommedarer";}
+  20% { content:"dromedarer";}
   30% { content:"delfiner";}
   40% { content:"drager";}
   50% { content:"diskokugler"; }
-  60% { content:"dinosaurere"; }
+  60% { content:"dinosaurer"; }
   70% { content:"dimsedutter"; }
   80% { content:"damesko"; }
-  90% { content: "danseundervisning"; }
+  90% { content: "dyner"; }
   100% { content: "druer"; }
 }
 html, body { overflow-x: hidden; }
 
+.hero__header__text p {
+  line-height: 3rem;
+}
 .button__text {
   color: white;
 }
@@ -96,12 +99,15 @@ body {
   text-align: center;
   flex-direction: column;
   height: calc(100vh - 70px);
+  padding-bottom: 28rem;
 }
 
 .hero__section {
   background-image: url("../img/hero-mobile.png");
   background-size: cover;
-  background-position: -1000px;
+  background-position: -750px;
+  z-index: 1000;
+  background-repeat: no-repeat;
 }
 
 .header__h1 {
@@ -147,7 +153,7 @@ body {
 
 @media screen and (min-width: 480px) {
   .hero__section {
-    background-position: -800px;
+    background-position: -500px;
   }
 }
 
@@ -164,7 +170,7 @@ body {
   }
 
   .hero__section {
-    background-position: -650px;
+    background-position: -300px;
   }
 }
 
@@ -178,10 +184,18 @@ body {
     text-align: unset;
   }
 
+  .hero__header__text p {
+    line-height: 4rem;
+  }
+
   .hero__section {
     background-image: url('../img/hero.png');
     background-size: cover;
-    background-position: -200px;
+    background-position: 0;
+  }
+
+  .hero__text {
+    padding-bottom: unset;
   }
 }
 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="da" class="h-100">
+<html lang="da" class="h-100" style="scroll-behavior: smooth">
 <head>
     <meta charset="utf-8">
 
@@ -32,7 +32,7 @@
 <section class="container-fluid hero__section">
     <?php include 'includes/menu.php';?>
     <div class="container hero__text">
-        <h1 class="display-4 fw-bold lh-1 mb-3"><p>Vi sælger ikke <br><span id="spin"></span></p></h1>
+        <h1 class="display-4 fw-bold lh-1 mb-3 hero__header__text"><p>Vi sælger ikke <br><span id="spin"></span></p></h1>
         <div class="button__container">
         <a href="kompetencer.php" class="text-decoration-none"><button type="button" class="btn btn-primary btn-lg px-4 me-md-2 mt-3 d-block"><p class="button__text">Vi sælger digitale løsninger</p></button></a>
             <div class="arrow-container">
@@ -77,8 +77,8 @@
                 <p class="mb-4 fs-5">Vi er et team af kreative fagnørder med forskellige kompetencer og personligheder. Vi er stolte af det! Her hos Define skaber vi løsninger der virker, både nu og i fremtiden.</p>
                 <a href="omos.php"><button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><p class="button__text">Læs om os</p></button></a>
             </div>
-            <div class="col-lg-3 col-md-5 flat__art__big justify-content-start">
-                <img src="img/flat%20art.jpg" alt="">
+            <div class="col-lg-4 col-md-5 flat__art__big justify-content-start">
+                <img src="img/flat%20art.jpg" alt="" >
             </div>
         </div>
     </div>

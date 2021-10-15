@@ -2,14 +2,14 @@
     <div class="row">
         <div class="col-12 col-sm-6">
             <div class="d-flex justify-content-center mt-4">
-                <div class="footer__icon">
-                    <a href="#">
-                        <img src="img/facebookicon.png" alt="facebook">
+                <div class="footer__icon me-4">
+                    <a href="https://www.facebook.com/Define-Reklame-og-Webbureau-100905855718849" target="_blank">
+                        <i class="fab fa-facebook-square text-white fa-3x"></i>
                     </a>
                 </div>
                 <div class="footer__icon">
-                    <a href="#">
-                        <img src="img/linkedinicon.png" alt="LinkedIn">
+                    <a href="https://www.linkedin.com/company/define-reklame-og-webbureau/about/" target="_blank">
+                        <i class="fab fa-linkedin text-white fa-3x"></i>
                     </a>
                 </div>
             </div>
@@ -25,7 +25,7 @@
             </div>
         </div>
         <div class="col-sm-6 d-none d-sm-block d-flex align-self-center mt-4">
-            <img class="footer__logo mx-auto" src="img/logo-white.png" alt="define logo">
+            <img class="footer__logo mx-auto" src="img/logo-hvid.svg" alt="define logo" style="width: 200px;">
         </div>
     </div>
         <p class="copyright text-center text-white my-3">© Define 2021</p>
