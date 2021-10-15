@@ -115,7 +115,7 @@ body {
   cursor: pointer;
   height: 20px;
   padding-top: 50px;
-  margin-left: 45px;
+  margin: auto;
 }
 
 .arrow-down {
@@ -170,6 +170,9 @@ body {
 
 @media screen and (min-width: 992px) {
 
+  .arrow-container {
+    margin-left: 150px;
+  }
   .hero__text {
     align-items: unset;
     text-align: unset;

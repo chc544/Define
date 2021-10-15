@@ -4,7 +4,7 @@
     <div class="container hero__text">
         <h1 class="display-4 fw-bold lh-1 mb-3"><p>Vi sælger ikke <br><span id="spin"></span></p></h1>
         <div class="button__container">
-        <button type="button" class="btn btn-primary btn-lg px-4 me-md-2 d-block"><p class="button__text">Fortsæt</p></button>
+        <a href="kompetencer.php" class="text-decoration-none"><button type="button" class="btn btn-primary btn-lg px-4 me-md-2 d-block"><p class="button__text">Vi sælger digitale løsninger</p></button></a>
             <div class="arrow-container">
                 <a href="#icons__top"><div class="arrow-down"></div></a>
             </div>
@@ -44,7 +44,7 @@
             <h1 class="mb-4 mt-4 display-3 text__weight col-lg-6 offset-lg-2">Digitale løsninger til en digital tidsalder.</h1>
             <div class="col-lg-4 offset-lg-2 col-md-5 offset-md-1 col-sm-12 offset-sm-0">
                 <img src="img/flat%20art.jpg" class="flat__art__small" alt="">
-                <p class="mb-4 fs-5">Vi er et team af kreative fagnørder med forskellige kompetencer og personligheder. Vi er stolte af det! Vi skaber løsninger der virker, både nu og i fremtiden.</p>
+                <p class="mb-4 fs-5">Vi er et team af kreative fagnørder med forskellige kompetencer og personligheder. Vi er stolte af det! Her hos Define skaber vi løsninger der virker, både nu og i fremtiden.</p>
                 <a href="omos.php"><button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><p class="button__text">Læs om os</p></button></a>
             </div>
             <div class="col-lg-3 col-md-5 flat__art__big justify-content-start">

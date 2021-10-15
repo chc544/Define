@@ -12,7 +12,7 @@
                     <a class="nav-link fs-5 me-4" href="index.php">Hjem</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link fs-5 me-4" href="#">Vi tilbyder</a>
+                    <a class="nav-link fs-5 me-4" href="kompetencer.php">Vi tilbyder</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link fs-5 me-4" href="omos.php">Om os</a>
