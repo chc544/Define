@@ -48,17 +48,17 @@
         <h1 class="icon__text icon__header__text mb-5 mt-5 p-5">Hvad vi kan gøre for dig</h1>
         <div class="row mt-5 me-5 ms-5 mb-3">
             <div class="col-lg-4 col-md-6 col-sm-12 text-center d-flex align-items-center flex-column">
-                <i class="fas fa-desktop mb-2"></i>
+                <img src="img/webdesign.svg" style="height: 180px;">
                 <h1 class="icon__text">Webdesign</h1>
                 <p class="text__color fs-5 w-75">Mindre landing pages, webshops og corporate sites - Vi udvikler en skræddersyet oplevelse til dine brugeres behov.</p>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 text-center d-flex align-items-center flex-column middle__icon">
-                <i class="fas fa-pencil-ruler mb-2"></i>
+                <img src="img/grafiskdesign.svg" style="height: 180px;">
                 <h1 class="icon__text">Grafisk design</h1>
                 <p class="text__color fs-5 w-75">Vi laver design med et formål; at skabe værdi for jeres virksomhed og begejstrer dine brugere.</p>
             </div>
             <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0 col-sm-12 mt-md-5 mt-lg-0 text-center d-flex align-items-center flex-column">
-                <i class="fas fa-desktop mb-2"></i>
+                <img src="img/some.svg" style="height: 180px;">
                 <h1 class="icon__text">SoMe indhold</h1>
                 <p class="text__color fs-5 w-75 ">Sociale medier er et afgørende komponent, når marketingstrategien skal udarbejdes, og det kan vi hjælpe med.</p>
             </div>
