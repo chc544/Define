@@ -1,7 +1,7 @@
 <?php include 'includes/top.php';?>
 
 <section class="kontakt container mt-5">
-    <h1 class="kontakt__header my-5">Kontakt</h1>
+    <h1 class="kontakt__header mb-5 d-flex justify-content-center">Kontakt</h1>
 
     <div class="kontakt__content row gap-4">
 

@@ -58,7 +58,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-5 offset-md-3 text-center col-sm-12 offset-sm-0">
+            <div class="col-md-5 offset-md-3 text-md-center col-sm-12 offset-sm-0">
                 <h1 class="mb-4 display-4 text__weight">Kontakt</h1>
                 <p class="mb-4 fs-5">Skal vi hjælpe din virksomhed til næste niveau, så kontakt os direkte på telefon eller email, så tager vi en uforpligtende snak omkring dit næste projekt.</p>
                 <a href="kontakt.php"><button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><p class="button__text">Kontakt</p></button></a>
