@@ -9,9 +9,9 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
-    <link href="./css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="./css/styles.css" rel="stylesheet" type="text/css">
-    <link href="./css/index.css" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/index.css" rel="stylesheet" type="text/css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/627f0b1d73.js" crossorigin="anonymous"></script>

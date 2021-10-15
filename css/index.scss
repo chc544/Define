@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .fas {
   font-size: 100px;
   color: white;
@@ -81,33 +85,73 @@ html, body { overflow-x: hidden; }
   margin-bottom: 50px;
 }
 
-.header__img {
-  background-image: url("../img/headerplaceholder.svg");
-  width: 100%;
-  background-repeat:no-repeat;
-  background-position: 110% 5px;
-  z-index: 1;
-}
-
-.header__placeholder__wrapper {
+body {
   position: relative;
-  padding: 20rem 0 24rem 0;
-  height: auto;
 }
 
-.header__placeholder {
-  position: absolute;
-  top: -150px;
-  right: -250px;
-  width: 1200px;
-  z-index: -1;
+.hero__text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: calc(100vh - 70px);
+}
+
+.hero__section {
+  background-image: url("../img/hero-mobile.png");
+  background-size: cover;
+  background-position: -1000px;
 }
 
 .header__h1 {
   z-index: 1;
 }
 
-@media (min-width: 768px) {
+.arrow-container {
+  width: 25px;
+  /* cubic-bezier-easing = sine / mehr Beispiele: https://easings.net/ */
+  animation: bounce 1600ms infinite cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  cursor: pointer;
+  height: 20px;
+  padding-top: 50px;
+  margin-left: 45px;
+}
+
+.arrow-down {
+  height: 6px;
+  background: black;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  border-radius: 5px;
+}
+
+.arrow-down:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  left: 100%;
+  border-radius: 5px;
+  background: black;
+  transform: rotate(-90deg);
+  transform-origin: 0% 100%;
+}
+
+@keyframes bounce {
+  50% {
+    transform: translateY(-15px);
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .hero__section {
+    background-position: -800px;
+  }
+}
+
+@media screen and (min-width: 768px) {
   .flat__art__big {
     display: inline;
   }
@@ -117,5 +161,29 @@ html, body { overflow-x: hidden; }
   .middle__icon {
     margin-top: 0px;
     margin-bottom: 0px;
+  }
+
+  .hero__section {
+    background-position: -650px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+
+  .hero__text {
+    align-items: unset;
+    text-align: unset;
+  }
+
+  .hero__section {
+    background-image: url('../img/hero.png');
+    background-size: cover;
+    background-position: -200px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .hero__section {
+    background-position: 0;
   }
 }
